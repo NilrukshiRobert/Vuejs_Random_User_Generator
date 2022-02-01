@@ -2,4 +2,4 @@
 
 Learning Vue Js
 
-by Nilrukshi
+by Nilrukshi Robert
