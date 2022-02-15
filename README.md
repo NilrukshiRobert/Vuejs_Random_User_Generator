@@ -1,4 +1,4 @@
-# Vuejs_Random_User_Generator
+# Vuejs Random User Generator
 
 Learning Vue Js
 
